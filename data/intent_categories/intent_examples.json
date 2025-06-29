@@ -1,0 +1,79 @@
+{
+  "general_info": [
+    "What is the purpose of this document?",
+    "Give me a summary of the file.",
+    "Provide general information about this case.",
+    "Tell me about this document.",
+    "What is this about?"
+  ],
+   "resume_info": [
+    "What skills are listed in the resume?",
+    "Show me the proficiencies in this CV.",
+    "List the abilities mentioned in the candidate's resume.",
+    "What expertise does the applicant have?",
+    "Which competencies are present in the resume?",
+    "What qualifications are included in the CV?",
+    "List the work experience of the candidate.",
+    "What is the educational background of the applicant?",
+    "Show me the certifications in this resume.",
+    "What are the technical skills mentioned?",
+    "Summarize the professional experience section.",
+    "What projects has the candidate worked on?",
+    "List the programming languages known by the applicant.",
+    "What are the achievements or awards?",
+    "Show me the contact information in the resume.",
+    "What is the career objective or summary?",
+    "List the tools and technologies used by the candidate.",
+    "What is the total experience in years?",
+    "Show me the roles and responsibilities held.",
+    "What are the soft skills mentioned?",
+    "List the languages spoken by the applicant.",
+    "What is the applicant's job title?",
+    "Describe the applicant's professional profile.",
+    "What companies has the candidate worked for?",
+    "List the frameworks and libraries used.",
+    "What cloud platforms does the candidate have experience with?",
+    "What development methodologies are mentioned?",
+    "List the certifications and licenses.",
+    "What leadership roles has the candidate held?",
+    "Summarize the applicant's employment history.",
+    "What is the candidate's GitHub or portfolio link?",
+    "Describe the candidate's experience in management and software projects.",
+    "What inventory or tracking systems has the applicant implemented?",
+    "List any admin or manual processes managed by the candidate.",
+    "What experience does the candidate have with tournaments or players?",
+    "Describe the candidate's role in restocking or inventory management.",
+    "What solutions or platforms has the applicant developed or led?",
+    "List any applications or systems the candidate has worked on.",
+    "What teams has the candidate led or been a part of?",
+    "Describe the candidate's experience with project implementation."
+  ]
+,
+  "case_status": [
+    "What is the current status of the case?",
+    "Show me the progress of case number 511605.",
+    "Has there been any update in the case?",
+    "What is the next hearing date for this case?",
+    "Is the case closed or still pending?"
+  ],
+  "court_details": [
+    "Which court is handling this case?",
+    "Who is the presiding judge for this case?",
+    "What is the court location for the hearing?"
+  ],
+  "party_information": [
+    "Who are the parties involved in this case?",
+    "List the petitioner and respondent for case 511605.",
+    "Who is the advocate representing the petitioner?"
+  ],
+  "hearing_information": [
+    "When was the last hearing held?",
+    "What was the outcome of the previous hearing?",
+    "What is the schedule for upcoming hearings?"
+  ],
+  "document_request": [
+    "Can I get a copy of the case order?",
+    "How do I request the judgment document?",
+    "Where can I download the case status report?"
+  ]
+}

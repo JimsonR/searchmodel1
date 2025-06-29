@@ -1,0 +1,14 @@
+config
+search_env
+*.pdf
+*.txt
+data/output_data/**.json
+data/chunks/**.txt 
+data/processed_data/**.txt
+data/intent_model/
+data/input_pdf_data/**.pdf 
+__pycache__/
+**.jsonl
+notebooks/Cost_free_Solutions.ipynb
+models/
+notebooks/intent_model/
