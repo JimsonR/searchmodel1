@@ -1,8 +1,8 @@
 name: Ingestion Pipeline
 
 on:
-  # push:
-  #   branches: [ classes ]
+  push:
+    branches: [ main ]
   pull_request:
     branches: [ main ]
 
