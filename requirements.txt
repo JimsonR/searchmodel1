@@ -1,0 +1,17 @@
+sentence-transformers
+transformers
+ keybert
+ openai
+ pinecone
+ pinecone-text
+ python-dotenv
+ PyPDF2
+pdf2image
+pytesseract
+streamlit
+fastapi
+pydantic
+numpy
+uvicorn[standard]
+spacy
+python-multipart
