@@ -65,5 +65,6 @@ jobs:
     - name: Run ingestion pipeline
       run: |
         echo "Starting ingestion pipeline..."
+        echo "Running main.py..."
         python main.py
         echo "Ingestion pipeline completed successfully! ✅"
